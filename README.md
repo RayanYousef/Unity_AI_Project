@@ -1,5 +1,5 @@
 
-# AI Showcase (Unity)
+# AI Battle (Unity)
 ![alt text](https://raw.githubusercontent.com/RayanYousef/Unity_AI_Project/main/AI.png)
 <br/>
 
